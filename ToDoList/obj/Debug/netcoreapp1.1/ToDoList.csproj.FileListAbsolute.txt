@@ -1,0 +1,7 @@
+/Users/mattstaudacher/Desktop/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.deps.json
+/Users/mattstaudacher/Desktop/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.dll
+/Users/mattstaudacher/Desktop/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.pdb
+/Users/mattstaudacher/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.csproj.CoreCompileInputs.cache
+/Users/mattstaudacher/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
+/Users/mattstaudacher/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
+/Users/mattstaudacher/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
